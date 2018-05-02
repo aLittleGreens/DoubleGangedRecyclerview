@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by IT小蔡 on 17-7-19 下午2:11 
+  ~ Copyright (c) 2017. All right reserved
+  ~
+  ~ Last modified 17-7-19 下午2:11
+  -->
+
+<resources>
+    
+    <dimen name="divider_height">28sp</dimen>
+    <dimen name="textSize">13sp</dimen>
+    <dimen name="sectioned_top">28sp</dimen>
+</resources>

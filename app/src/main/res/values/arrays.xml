@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pill">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+
+    </string-array>
+    
+    <string-array name="letter">
+        <item>ads0</item>
+        <item>ads1</item>
+        <item>ads2</item>
+        <item>ads3</item>
+        <item>ads4</item>
+        <item>bds5</item>
+        <item>bds6</item>
+        <item>cvs7</item>
+        <item>cds8</item>
+        <item>dds9</item>
+        <item>dvs10</item>
+        <item>eds11</item>
+        <item>eds12</item>
+        <item>zds13</item>
+        <item>zds14</item>
+        <item>zds15</item>
+        <item>yds16</item>
+        <item>yds17</item>
+        <item>yds18</item>
+        <item>kds19</item>
+
+
+    </string-array>
+
+</resources>

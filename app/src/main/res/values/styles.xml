@@ -1,0 +1,20 @@
+<!--
+  ~ Created by IT小蔡 on 17-7-19 下午2:45
+  ~ Copyright (c) 2017. All right reserved
+  ~
+  ~ Last modified 17-7-19 上午9:22
+  -->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--修改RecyclerView item背景色-->
+        <item name="android:listDivider">@drawable/divider_bg</item>
+    </style>
+
+</resources>
