@@ -1,0 +1,2 @@
+# DoubleGangedRecyclerview
+利用ItemDecoration给RecyclerView的item添加粘性标题
